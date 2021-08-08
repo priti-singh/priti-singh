@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priti
+- 👋 Hi, I’m Priti
 - 👀 Data Science and artificial intelligence.
 - 🌱 Machine learning, Rapid miner
 - 💞️ Data science algorithm and modelling
